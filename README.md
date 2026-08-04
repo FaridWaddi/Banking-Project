@@ -38,6 +38,13 @@ All 13 features have manual test cases written and executed. Automation status i
 
 
 ---
+| **Browser**        | **Version** | **Login** | **Logout**        | **Result**     |
+| ------------------ | ----------- | --------- | --------------    | -------------- |
+| 🌍 Google Chrome   | Latest      | ✅ Passed  | 🔄 In Progress | Login Verified  |
+| 🦊 Mozilla Firefox | Latest      | ✅ Passed  | 🔄 In Progress | Login Verified  |
+| 🔷 Microsoft Edge  | Latest      | ✅ Passed  | 🔄 In Progress | Login Verified  |
+
+---
 
 ## Tech Stack
 
