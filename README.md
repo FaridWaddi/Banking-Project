@@ -19,19 +19,23 @@ This project covers the full manual testing lifecycle for a banking application:
 
 All 13 features have manual test cases written and executed. Automation status is noted per module.
 
+| **Module**              | **Manual Testing**                | **Cypress Automation** | **Status**  |
+| ----------------------  | -------------------------------   | ---------------------- | ----------  |
+| 🔐 Login / Logout       | ✅ Test Cases Written & Executed | ✅ Completed           | ✔️ Done    |
+| 👤 New Customer         | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| ✏️ Edit Customer        | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 🗑️ Delete Customer      | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 🏦 New Account          | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| ✏️ Edit Account         | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 🗑️ Delete Account       | ✅ Test Cases Written &Executed  | 🔄 In Progress         | 🚧 Ongoing |
+| 💰 Deposit              | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 💸 Withdrawal           | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 🔄 Fund Transfer        | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 📊 Balance Enquiry      | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 📄 Mini Statement       | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 📑 Customized Statement | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
+| 🔑 Change Password      | ✅ Test Cases Written & Executed | 🔄 In Progress         | 🚧 Ongoing |
 
-
----
-
-## Features
-
-- 📋 **Manual test cases** for all 13 modules, written in Google Sheets with test steps, expected results, and pass/fail status
-- 🗂️ **Sprint-based execution** — test cases imported into Jira and organized into Zephyr Scale test cycles per sprint
-- 🤖 **Cypress automation** for Login/Logout (positive and negative scenarios)
-- 🏷️ **Tagged test runs** — `@smoke` for critical path, `@regression` for the full suite
-- 📊 **Mochawesome HTML reports** with embedded screenshots on failure
-- 🔁 **Retry logic** — 2 retries in CI mode to handle transient issues
-- 🗄️ **Centralized test data** — all inputs live in `cypress/fixtures/testData.json`, not hardcoded in specs
 
 ---
 
