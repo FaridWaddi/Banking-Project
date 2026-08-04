@@ -186,8 +186,12 @@ Organizing test cycles by sprint in Zephyr made it clear which areas were fully 
 - [ ] Cypress automation — Reports & statements
 - [ ] CI/CD integration (GitHub Actions)
 
+
+## 📬 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-waddi/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaridWaddi)
+
 ---
 
-## License
-
-MIT
+*Thanks for stopping by! 🚀*
