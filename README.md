@@ -19,22 +19,7 @@ This project covers the full manual testing lifecycle for a banking application:
 
 All 13 features have manual test cases written and executed. Automation status is noted per module.
 
-| Module | Manual Test Cases | Automation |
-|---|---|---|
-| Login / Logout | ✅ Written & executed | ✅ Done (Cypress) |
-| New Customer | ✅ Written & executed | 🔄 In progress |
-| Edit Customer | ✅ Written & executed | 🔄 In progress |
-| Delete Customer | ✅ Written & executed | 🔄 In progress |
-| New Account | ✅ Written & executed | 🔄 In progress |
-| Edit Account | ✅ Written & executed | 🔄 In progress |
-| Delete Account | ✅ Written & executed | 🔄 In progress |
-| Deposit | ✅ Written & executed | 🔄 In progress |
-| Withdrawal | ✅ Written & executed | 🔄 In progress |
-| Fund Transfer | ✅ Written & executed | 🔄 In progress |
-| Balance Enquiry | ✅ Written & executed | 🔄 In progress |
-| Mini Statement | ✅ Written & executed | 🔄 In progress |
-| Customized Statement | ✅ Written & executed | 🔄 In progress |
-| Change Password | ✅ Written & executed | 🔄 In progress |
+
 
 ---
 
